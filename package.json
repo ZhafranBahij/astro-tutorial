@@ -9,8 +9,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/preact": "^4.0.4",
     "@astrojs/rss": "^4.0.11",
     "astro": "^5.2.5",
-    "micromark-factory-destination": "^2.0.1"
+    "micromark-factory-destination": "^2.0.1",
+    "preact": "^10.25.4"
   }
 }
